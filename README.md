@@ -19,7 +19,8 @@
 
 <h3>Step3:</h3>Type that out in your computer browser(in my case it was ftp://192.168.43.1:1024) and enter it should show something like this in your browser<br>
 
-
+<h3>You can also write your own ftpclient like the one i use you can refer to that code <a href="https://github.com/nishalk01/automating_anime_video_transfer_using_ftplib">Here</a>
+  
 ![image](https://github.com/nishalk01/FTPServer_app_using_kivy/blob/master/screenshots/browser.png)
 
 
@@ -36,6 +37,12 @@
 
 <h4>Now that you have all the dependencies run the program that will open up app window</h4>
 <h4>To build the app use buildozer you can refer to <code>src/buildozer.spec</code> file in the repo and also <h3>make sure uncomment code present in<h3> <code>src/main.py</code> and comment the desktop ones</h4>
+  
+# References:
+<ul>
+  <li>https://kivymd.readthedocs.io/en/latest/</li>
+  <li>https://pyftpdlib.readthedocs.io/en/latest/tutorial.html#a-base-ftp-server</li>
+</ul>
 
 
     
