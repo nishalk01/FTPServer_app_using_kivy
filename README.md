@@ -8,7 +8,7 @@
 | ![image](https://github.com/nishalk01/FTPServer_app_using_kivy/blob/master/screenshots/ftpserverv0.1.0.jpeg)  | ![image](https://github.com/nishalk01/FTPServer_app_using_kivy/blob/master/screenshots/ftpserver2.jpeg)  |
 
 
-<h2>You can find already built apk file <a href="https://github.com/nishalk01/FTPServer_app_using_kivy/blob/master/screenshots/ftpserver2.jpeg">here</a></h2>
+<h2>You can find already built apk file <a href="https://drive.google.com/file/d/1Upq-P3JjLySYnxHBVO4kb9poUQTsx4fA/view?usp=sharing">here</a></h2>
 <h4>How to use the app</h4>
 <h4>Lets say you want to transfer file between mobile and a computer,Make sure You have both connected through hotspot(from mobile)</h4>
   
