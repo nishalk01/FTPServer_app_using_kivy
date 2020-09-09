@@ -12,8 +12,8 @@
 <h4>How to use the app</h4>
 <h4>Lets say you want to transfer file between mobile and a computer,Make sure You have both connected through hotspot(from mobile)</h4>
   
-<h3>Step1:</h3>:Open App(on mobile phone) and click on the switch button to turn on ftpServer
-<h3>Step2:</h3>:Check your Notification to see if there is a notification from the app<br>
+<h3>Step1:</h3>Open App(on mobile phone) and click on the switch button to turn on ftpServer
+<h3>Step2:</h3>Check your Notification to see if there is a notification from the app<br>
 
 ![image](https://github.com/nishalk01/FTPServer_app_using_kivy/blob/master/screenshots/Notification.jpeg)
 
@@ -35,7 +35,7 @@
 </ul>
 
 <h4>Now that you have all the dependencies run the program that will open up app window</h4>
-<h4>To build the app use buildozer you can refer to buildozer.spec file in the repo and also make sure uncomment code present in <code>main.py</code></h4>
+<h4>To build the app use buildozer you can refer to buildozer.spec file in the repo and also <h3>make sure uncomment code present in<h3> <code>main.py</code> and comment the desktop ones</h4>
 
 
     
