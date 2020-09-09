@@ -35,7 +35,7 @@
 </ul>
 
 <h4>Now that you have all the dependencies run the program that will open up app window</h4>
-<h4>To build the app use buildozer you can refer to buildozer.spec file in the repo and also <h3>make sure uncomment code present in<h3> <code>main.py</code> and comment the desktop ones</h4>
+<h4>To build the app use buildozer you can refer to <code>src/buildozer.spec</code> file in the repo and also <h3>make sure uncomment code present in<h3> <code>src/main.py</code> and comment the desktop ones</h4>
 
 
     
